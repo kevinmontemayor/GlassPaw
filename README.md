@@ -15,3 +15,6 @@ Ideal for developers exploring Liquid Glass UI, matched transitions, or just bui
 
 ![Magnifier](https://github.com/user-attachments/assets/0bb74a56-0c1f-43dc-a3d9-6f9b645bef5f)
 
+![EffectID](https://github.com/user-attachments/assets/c60f4adf-3500-4124-b929-95191f97b2c3)
+
+![Union](https://github.com/user-attachments/assets/4afb8aaa-668c-4147-a0ad-e2c5c05385e4)
