@@ -6,3 +6,7 @@ Key features:
 * Beautiful adaptive backgrounds that change with the system’s color scheme
 * Full SwiftUI-native architecture leveraging the new iOS 26 APIs
 Ideal for developers exploring Liquid Glass UI, matched transitions, or just building delightfully animated SwiftUI apps.
+
+![Welcome+Toolbar](https://github.com/user-attachments/assets/d95784a9-f925-4ad5-afee-1fca573daca8)
+
+![Basic](https://github.com/user-attachments/assets/fdff73c3-a980-4b4a-8934-2164ff33e58a)
