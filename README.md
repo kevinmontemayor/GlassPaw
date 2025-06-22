@@ -10,3 +10,5 @@ Ideal for developers exploring Liquid Glass UI, matched transitions, or just bui
 ![Welcome+Toolbar](https://github.com/user-attachments/assets/d95784a9-f925-4ad5-afee-1fca573daca8)
 
 ![Basic](https://github.com/user-attachments/assets/fdff73c3-a980-4b4a-8934-2164ff33e58a)
+
+![Uploading Container.gif…]()
